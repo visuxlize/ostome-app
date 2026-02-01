@@ -1,4 +1,4 @@
-# 📁 OSTO(ME) Project Structure
+# OSTO(ME) Project Structure
 
 ```
 ostome-app/
@@ -15,7 +15,7 @@ ostome-app/
     └── index.css          # Global styles
 ```
 
-## 📄 File Descriptions
+## File Descriptions
 
 ### `index.html`
 - Root HTML file
@@ -50,7 +50,7 @@ ostome-app/
 - Child-friendly color scheme
 - Mobile-first approach
 
-## 🎨 Key Features in App.jsx
+## Key Features in App.jsx
 
 ### State Management
 ```javascript
@@ -79,7 +79,7 @@ ostome-app/
   - `ostome-appointments`: Appointments
   - `ostome-reminders`: Reminders
 
-## 🎯 Component Sections
+## Component Sections
 
 ### 1. Header
 - App branding
@@ -115,7 +115,7 @@ Dynamic content based on active tab:
 - List of active reminders
 - Type categorization
 
-## 🎨 Styling Highlights
+## Styling Highlights
 
 ### Color Scheme
 - Primary: Purple gradient (`#667eea` → `#764ba2`)
@@ -135,7 +135,7 @@ Dynamic content based on active tab:
 - Transform effects for buttons
 - Box shadows for depth
 
-## 🔧 Customization Guide
+## Customization Guide
 
 ### Add New Mood
 Edit `moods` array in `App.jsx`:
@@ -155,7 +155,7 @@ Edit reminder type select in `App.jsx`:
 <option value="study">📚 Study</option>
 ```
 
-## 📱 Browser Compatibility
+## Browser Compatibility
 
 - ✅ Chrome 90+
 - ✅ Firefox 88+
@@ -163,7 +163,7 @@ Edit reminder type select in `App.jsx`:
 - ✅ Edge 90+
 - ✅ Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 🔐 Privacy & Security
+## Privacy & Security
 
 - No external API calls
 - No user tracking
@@ -171,7 +171,7 @@ Edit reminder type select in `App.jsx`:
 - Data cleared when browser cache is cleared
 - No cookies used
 
-## 🚀 Performance
+## Performance
 
 - Lightweight bundle size
 - Fast load times
@@ -179,9 +179,7 @@ Edit reminder type select in `App.jsx`:
 - Optimized React rendering
 - Lazy loading ready
 
-## 📚 Learning Resources
-
-If you want to extend this project:
+## Learning Resources
 
 - [React Documentation](https://react.dev)
 - [Vite Guide](https://vitejs.dev/guide/)
@@ -190,7 +188,7 @@ If you want to extend this project:
 
 ---
 
-## 💡 Future Enhancement Ideas
+## 💡 Future Enhancement Ideas that will be worked on
 
 1. **Data Export**
    - Export mood data as PDF for doctor visits
@@ -222,7 +220,3 @@ If you want to extend this project:
 8. **Cloud Sync**
    - Firebase integration
    - Account system
-
----
-
-Need help? Check the README.md or create an issue on GitHub!
