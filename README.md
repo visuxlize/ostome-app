@@ -1,26 +1,26 @@
-# OSTO(ME) - Child-Friendly Mood Tracking App 🌈
+# OSTO(ME) - Child-Friendly Mood Tracking App 
 
 A colorful, intuitive mood tracking application designed for children to track their feelings, symptoms, and appointments for doctor visits.
 
-## 🎯 Features
+## Features
 
-- **Mood Tracking**: Track daily moods with fun emoji-based interface
+- **Mood Tracking**: Track daily moods with a fun emoji-based interface
 - **Mood History**: View past mood entries with notes
 - **Doctor Appointments**: Schedule and track upcoming doctor visits
 - **Reminders**: Set reminders for medicine, exercise, and other important tasks
 - **Child-Friendly Design**: Colorful, intuitive interface designed for kids
-- **Local Storage**: All data saved locally in the browser
+- **Local Storage**: All data is saved locally in the browser
 
-## 🚀 Live Demo
+## Live Demo
 
 [View Live Demo](#) *(Add your GitHub Pages URL here)*
 
-## 📸 Screenshots
+## Screenshots
 
 ![OSTO(ME) Mood Tracker](./screenshots/mood-screen.png)
 ![History View](./screenshots/history-screen.png)
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **React 18** - UI Framework
 - **Vite** - Build Tool
@@ -28,13 +28,13 @@ A colorful, intuitive mood tracking application designed for children to track t
 - **CSS3** - Styling with gradients and animations
 - **LocalStorage API** - Data persistence
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have installed:
 - [Node.js](https://nodejs.org/) (version 14 or higher)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
-## ⚙️ Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -55,7 +55,7 @@ Before you begin, ensure you have installed:
 4. **Open your browser**
    Navigate to `http://localhost:5173`
 
-## 🏗️ Build for Production
+## Build for Production
 
 ```bash
 npm run build
@@ -63,7 +63,7 @@ npm run build
 
 The build files will be in the `dist` folder.
 
-## 🌐 Deploy to GitHub Pages
+## Deploy to GitHub Pages
 
 1. **Update `vite.config.js`**
    Change the `base` to match your repository name:
@@ -92,7 +92,7 @@ The build files will be in the `dist` folder.
    - Go to your repository settings
    - Navigate to "Pages"
    - Select `gh-pages` branch
-   - Your app will be live at `https://yourusername.github.io/ostome-app/`
+   - Your app will be live at `https://visuxlize.github.io/ostome-app/`
 
 ## 📱 Features Breakdown
 
@@ -120,7 +120,7 @@ The build files will be in the `dist` folder.
 - Categorized with emoji indicators
 - Easy deletion
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 OSTO(ME) was designed with children in mind:
 - **Bright, Cheerful Colors**: Purple gradient theme
@@ -130,14 +130,14 @@ OSTO(ME) was designed with children in mind:
 - **Friendly Language**: Child-appropriate copy
 - **Emoji-Heavy**: Visual communication over text
 
-## 🔒 Privacy & Data
+## Privacy & Data
 
 - All data stored locally in browser's LocalStorage
 - No server communication
 - No user tracking
 - Parents can clear data by clearing browser storage
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -147,24 +147,24 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
+##  Author
 
 **Andres Marte**
 - Portfolio: [visuxlize.github.io/portfolio](https://visuxlize.github.io/portfolio)
 - LinkedIn: [linkedin.com/in/andres-marte-95438217b](https://linkedin.com/in/andres-marte-95438217b)
 - GitHub: [@visuxlize](https://github.com/visuxlize)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Design inspired by child psychology research on emotional expression
 - Icons by [Lucide](https://lucide.dev/)
 - Built as part of UX/UI portfolio project
 
-## 📞 Support
+## Support
 
 If you have any questions or issues, please open an issue on GitHub.
 
