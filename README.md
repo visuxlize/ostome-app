@@ -13,7 +13,7 @@ A colorful, intuitive mood tracking application designed for children to track t
 
 ## Live Demo
 
-[View Live Demo](#) *(Add your GitHub Pages URL here)*
+[View Live Demo](#) (https://visuxlize.github.io/ostome-app/)
 
 ## Screenshots
 
